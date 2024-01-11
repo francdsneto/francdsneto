@@ -37,8 +37,8 @@ Segue algumas outras paixões da minha vida:
 - 🙄 Por um bom tempo deixei meu github esteve parado, mas aos poucos vamos mudando isso 😁👍 
 
 <p align="center">
-    <a href="https://github.com/jeniblodev">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=francdsneto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=francdsneto&layout=compact&langs_count=8&theme=algolia"/>
+    <a href="https://github.com/francdsneto">
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=francdsneto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=francdsneto&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
