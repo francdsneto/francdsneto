@@ -34,7 +34,7 @@ Segue algumas outras paixões da minha vida:
 - 👨‍💻 Trabalho como Dev FullStack para a Comunidade Católica Shalom
 - 📚 Tracei um plano de estudo para me aprofundar em Java e Frontend, e posteriormente estudar DevOps e IA
 - 🎮 Sempre tiro um tempinho para relaxar jogando alguma coisa, mas desde que comecei a jogar Rocket League só me estresso... 😒
-- 🙄 Por um bom tempo deixei meu github esteve parado, mas aos poucos vamos mudando isso 😁👍 
+- 🙄 Por um bom tempo meu github esteve parado, mas aos poucos vamos mudando isso 😁👍 
 
 <p align="center">
     <a href="https://github.com/francdsneto">
