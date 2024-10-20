@@ -14,7 +14,7 @@
 
 ### E ai pessoal, tudo bem?!
 
-Me chamo Neto, tenho 36 anos, sou paraíbano mas moro em Fortaleza/Ce a mais de 10 anos.
+Me chamo Neto, tenho 37 anos, sou paraíbano mas moro em Fortaleza/Ce a mais de 10 anos.
 Desde criança meu sonho era entender como era possível criar um programa para fazer o que eu quizesse.
 Acho que foi por isso que me tornei dev 😅
 
